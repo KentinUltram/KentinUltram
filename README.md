@@ -1,5 +1,14 @@
 ### Hi there 👋
-
+- 👋 Hi, I’m @KentinUltram
+- ✨ I'm a System Engineer since 8 years and have a Master Degree in Computer Sciences and a Specialize Master Degree In web Technologies System Services and Security 
+- 👀 I’m interested in Mobile Development, Devops, System Management and Architecture Design
+- 🌱 I’m currently learning ReactNative
+- 🔭 I’m currently working on a Cross Platform Mobile Application (Hopefully with ReactNative)
+- 💞️ I’m looking to collaborate on interesting projects :)
+- 📫 How to reach me: through my personal website https://kentinultram.github.io/website/ or by email quentin.froment@terranis.fr
+- 😄 Pronouns: He/Him
+- 🤖 I work on Linux (Ubuntu/CentOS), MacOS and Windows
+- ⚡ Fun fact: I'm a penguin !
 <!--
 **KentinUltram/KentinUltram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
